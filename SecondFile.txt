@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-This is for Lab1a
-=======
-This is for Lab1 conflict
->>>>>>> Lab1
+Hello
